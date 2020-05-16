@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  height: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: grey; }
+
+header {
+  margin-top: 133px;
+  padding: 10px; }
+  header p {
+    font-size: 40px; }
+    header p a {
+      text-decoration: none; }
+
+/*# sourceMappingURL=styles.css.map */

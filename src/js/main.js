@@ -1,0 +1,2 @@
+'use distric'
+// как  dd
